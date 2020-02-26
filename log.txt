@@ -1,5 +1,0 @@
-weseepro download_path[/dockerdata/weseepro/20200227003152421313525610]  task_id[7e939d58-58b5-11ea-a4f5-38f9d35729ed]
-list end len[7]
-weseepro finish task_id[7e939d58-58b5-11ea-a4f5-38f9d35729ed]
-weseepro output_path[/dockerdata/weseepro/20200227003152421313525610_wash]  task_id[7e939d58-58b5-11ea-a4f5-38f9d35729ed]
-weseepro finish task_id[7e939d58-58b5-11ea-a4f5-38f9d35729ed]
